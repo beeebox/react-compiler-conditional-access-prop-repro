@@ -1,0 +1,15 @@
+{
+	"name": "react-compiler-conditional-access-prop-repro",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build"
+	},
+	"dependencies": {
+		"next": "14.3.0-canary.68",
+		"react": "19.0.0-beta-26f2496093-20240514",
+		"react-dom": "19.0.0-beta-26f2496093-20240514"
+	},
+	"devDependencies": {
+		"babel-plugin-react-compiler": "0.0.0-experimental-c23de8d-20240515"
+	}
+}
